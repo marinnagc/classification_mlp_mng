@@ -12,6 +12,9 @@ Perfeito 👌 Se você já decidiu pelo **Adult Income**, os primeiros passos s�
   * Colocar a referência no relatório: nome, link, nº de linhas e colunas, target (`income >50K ou <=50K`).
   * Justificar a escolha: dados reais, binário, mix de atributos categóricos/numéricos, >1000 amostras.
 
+
+  
+
 ---
 
 ### 2. Dataset Explanation
