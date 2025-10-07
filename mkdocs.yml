@@ -1,6 +1,9 @@
 site_name: Deep Learning Projects
 site_author: Guilherme Paraiso, Nicholas Balkins & Marinna Grigolli
-repo_name: https://github.com/marinnagc/classification_mlp_mng
+site_url: https://insper.github.io/
+repo_url:  https://github.com/marinnagc/classification_mlp_mng
+repo_name: Deep Learning Projects
+
 
 theme:
   name: material
