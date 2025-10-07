@@ -24,3 +24,16 @@ Instale as dependências com:
 python3 -m pip install -r requirements.txt --upgrade
 ```
 
+
+Rode localmente com:
+
+``` shell
+mkdocs serve -o
+```
+
+Para subir no Git Hub Pages:
+
+```shell
+mkdocs gh-deploy
+```
+

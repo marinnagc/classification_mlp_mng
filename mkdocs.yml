@@ -1,8 +1,9 @@
-site_name: Template de Entrega
-site_author: Sandmann, H.
-site_url: https://hsandmann.github.io/documentation.template
-repo_url: https://github.com/hsandmann/documentation.template
-repo_name: github/documentation.template
+site_name: Deep Learning Projects
+site_author: Guilherme Paraiso, Nicholas Balkins & Marinna Grigolli
+site_url: https://insper.github.io/
+repo_url:  https://github.com/marinnagc/classification_mlp_mng
+repo_name: Deep Learning Projects
+
 
 theme:
   name: material
@@ -109,9 +110,6 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - git-authors
-  - git-committers:
-      repository: hsandmann/hsandmann.github.com
-      branch: main
   - search
   - badges
   - minify:
@@ -133,10 +131,5 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - This documentation: ./thisdocumentation/main.md
-  - Roteiros:
-    - Roteiro 1: ./roteiro1/main.md
-    - Roteiro 2: ./roteiro2/main.md
-    - Roteiro 3: ./roteiro3/main.md
-    - Roteiro 4: ./roteiro4/main.md
-  - Projeto: ./projeto/main.md
+  - Projeto: 
+    - Projeto 1: project1.md
